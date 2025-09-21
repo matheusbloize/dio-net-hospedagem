@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio-net-hospedagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f32f0b68e43e7edaf6ef61809f0f9d2f5582404a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f7b7f1d9ecbe121bf92f4416f33e9a4b39e5ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio-net-hospedagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio-net-hospedagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
