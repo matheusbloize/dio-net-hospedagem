@@ -12,3 +12,4 @@ D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\refint\dio-net-hospedagem.dll
 D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.pdb
 D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.genruntimeconfig.cache
 D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\ref\dio-net-hospedagem.dll
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.sourcelink.json
