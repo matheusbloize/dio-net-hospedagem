@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dio-net-hospedagem/1.0.0": {
+        "runtime": {
+          "dio-net-hospedagem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio-net-hospedagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

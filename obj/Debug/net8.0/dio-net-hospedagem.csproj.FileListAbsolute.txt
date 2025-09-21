@@ -1,0 +1,14 @@
+D:\Projects\dio-net-hospedagem\bin\Debug\net8.0\dio-net-hospedagem.exe
+D:\Projects\dio-net-hospedagem\bin\Debug\net8.0\dio-net-hospedagem.deps.json
+D:\Projects\dio-net-hospedagem\bin\Debug\net8.0\dio-net-hospedagem.runtimeconfig.json
+D:\Projects\dio-net-hospedagem\bin\Debug\net8.0\dio-net-hospedagem.dll
+D:\Projects\dio-net-hospedagem\bin\Debug\net8.0\dio-net-hospedagem.pdb
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.AssemblyInfoInputs.cache
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.AssemblyInfo.cs
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.csproj.CoreCompileInputs.cache
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.dll
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\refint\dio-net-hospedagem.dll
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.pdb
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\dio-net-hospedagem.genruntimeconfig.cache
+D:\Projects\dio-net-hospedagem\obj\Debug\net8.0\ref\dio-net-hospedagem.dll
